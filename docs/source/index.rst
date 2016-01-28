@@ -20,8 +20,5 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-.. doxygenclass:: Nutshell
-
-.. doxygenfunction:: isCracked()
-
-.. doxygenenum:: Tool
+.. doxygenfile:: nutshell.h
+   :project: rtd-btest
