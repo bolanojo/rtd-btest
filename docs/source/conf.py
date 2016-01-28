@@ -284,5 +284,5 @@ texinfo_documents = [
 #texinfo_no_detailmenu = False
 
 extensions = [ "breathe" ]
-breathe_projects = { "rtd-btest": "/home/bolanojo/labws/rtd-btest/xml" }
+breathe_projects = { "rtd-btest": "../../xml" }
 breathe_default_project = "rtd-btest"
