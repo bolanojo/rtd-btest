@@ -20,4 +20,8 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-.. doxygenclass:: Nutshel
+.. doxygenclass:: Nutshell
+
+.. doxygenfunction:: isCracked()
+
+.. doxygenenum:: Tool
