@@ -20,5 +20,5 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-.. doxygenfile:: nutshell.h
+.. doxygenfile:: nutshel.h
    :project: rtd-btest
